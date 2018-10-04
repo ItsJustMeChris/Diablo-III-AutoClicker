@@ -1,0 +1,15 @@
+C:\Users\Chris\source\repos\Diablo3Auto-Clicker\Diablo3Auto-Clicker\bin\Release\Diablo3Auto-Clicker.exe.config
+C:\Users\Chris\source\repos\Diablo3Auto-Clicker\Diablo3Auto-Clicker\bin\Release\Diablo3Auto-Clicker.exe
+C:\Users\Chris\source\repos\Diablo3Auto-Clicker\Diablo3Auto-Clicker\bin\Release\Diablo3Auto-Clicker.pdb
+C:\Users\Chris\source\repos\Diablo3Auto-Clicker\Diablo3Auto-Clicker\obj\Release\Diablo3Auto-Clicker.csprojResolveAssemblyReference.cache
+C:\Users\Chris\source\repos\Diablo3Auto-Clicker\Diablo3Auto-Clicker\obj\Release\MainWindow.g.cs
+C:\Users\Chris\source\repos\Diablo3Auto-Clicker\Diablo3Auto-Clicker\obj\Release\App.g.cs
+C:\Users\Chris\source\repos\Diablo3Auto-Clicker\Diablo3Auto-Clicker\obj\Release\Diablo3Auto-Clicker_MarkupCompile.cache
+C:\Users\Chris\source\repos\Diablo3Auto-Clicker\Diablo3Auto-Clicker\obj\Release\Diablo3Auto-Clicker_MarkupCompile.lref
+C:\Users\Chris\source\repos\Diablo3Auto-Clicker\Diablo3Auto-Clicker\obj\Release\MainWindow.baml
+C:\Users\Chris\source\repos\Diablo3Auto-Clicker\Diablo3Auto-Clicker\obj\Release\Diablo3Auto-Clicker.g.resources
+C:\Users\Chris\source\repos\Diablo3Auto-Clicker\Diablo3Auto-Clicker\obj\Release\Diablo3Auto_Clicker.Properties.Resources.resources
+C:\Users\Chris\source\repos\Diablo3Auto-Clicker\Diablo3Auto-Clicker\obj\Release\Diablo3Auto-Clicker.csproj.GenerateResource.Cache
+C:\Users\Chris\source\repos\Diablo3Auto-Clicker\Diablo3Auto-Clicker\obj\Release\Diablo3Auto-Clicker.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Diablo3Auto-Clicker\Diablo3Auto-Clicker\obj\Release\Diablo3Auto-Clicker.exe
+C:\Users\Chris\source\repos\Diablo3Auto-Clicker\Diablo3Auto-Clicker\obj\Release\Diablo3Auto-Clicker.pdb
